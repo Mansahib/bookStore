@@ -24,7 +24,7 @@ An online bookstore built with the **MERN stack**, allowing users to explore boo
 
 ---
 
-##🛠️ Technologies Used  
+## 🛠️ Technologies Used  
 - **Frontend:** React.js, Redux, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
@@ -32,54 +32,52 @@ An online bookstore built with the **MERN stack**, allowing users to explore boo
 
 ---
 
-##📸 Screenshots
+## 📸 Screenshots  
 
-###🏠 Home Page
-![Home Page1](assets/screenshots/home1.png)
-![Home Page2](assets/screenshots/home2.png)
+### 🏠 Home Page  
+![Home Page1](assets/screenshots/home1.png)  
+![Home Page2](assets/screenshots/home2.png)  
 
-### 🔑 Signup Page  / Login page 
-![Signup](assets/screenshots/signup.png) 
-![login](assets/screenshots/login.png) 
-
-
+### 🔑 Signup Page / Login Page  
+![Signup](assets/screenshots/signup.png)  
+![Login](assets/screenshots/login.png)  
 
 ### 📚 All Books  
-![All Books](assets/screenshots/all-books.png) 
+![All Books](assets/screenshots/all-books.png)  
 
-###📖 Book Details
-![Book details](assets/screenshots/viewbook.png)
+### 📖 Book Details  
+![Book details](assets/screenshots/viewbook.png)  
 
 ### ❤️ Favorites Page  
 ![Favorites](assets/screenshots/favorites.png)  
 
+### 🛒 Cart Page  
+![Cart Page](assets/screenshots/usercart.png)  
 
-###🛒 Cart Page
-![cart page](assets/screenshots/usercart.png)
-
-
-###🛍️ User Order Summary
-![user orders page](assets/screenshots/userorder.png)
+### 🛍️ User Order Summary  
+![User Orders](assets/screenshots/userorder.png)  
 
 ### 🛍️ Admin Panel  
 ![Admin Panel](assets/screenshots/admin-panel.png)  
 
 ### ➕ Add Book  
-![Add Book](assets/screenshots/add-book.png) 
- ### 🛍️ Admin view order details  
-![Admin orders](assets/screenshots/adminorders.png) 
+![Add Book](assets/screenshots/add-book.png)  
 
+### 🛍️ Admin View Order Details  
+![Admin Orders](assets/screenshots/adminorders.png)  
 
-### ✏️ Edit Book or user / Add to fav / Delete  
-![userEdit](assets/screenshots/edit1.png)
-![adminEdit](assets/screenshots/edit2.png)
-![admindeleteedit](assets/screenshots/de.png)
+### ✏️ Edit Book or User / Add to Favorites / Delete  
+![User Edit](assets/screenshots/edit1.png)  
+![Admin Edit](assets/screenshots/edit2.png)  
+![Admin Delete](assets/screenshots/de.png)  
+
 ---
 
-##🎯 Future Enhancements
-✅ Online Payment Integration (Stripe, Razorpay)
-✅ Book Reviews & Ratings
-✅ Advanced Search & Filters
+## 🎯 Future Enhancements  
+✅ **Online Payment Integration** (Stripe, Razorpay)  
+✅ **Book Reviews & Ratings**  
+✅ **Advanced Search & Filters**  
+
 ---
 
 ## 📦 Installation & Setup  
@@ -93,13 +91,5 @@ cd BookStore
 npm install
 
 # Move to frontend directory & install dependencies
-cd bookstore
+cd client
 npm install
----
-
-#📧 Contact
-For queries, reach out:
-✉️ your-mansahibsinghgalshi@gmail.com
-
----
-
