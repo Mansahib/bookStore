@@ -80,6 +80,10 @@ An online bookstore built with the **MERN stack**, allowing users to explore boo
 
 ---
 
+## 📧 Contact
+For queries, reach out:
+✉️ mansahibsinghgalshi@gmail.com
+---
 ## 📦 Installation & Setup  
 
 ### 1️⃣ Clone the Repository & Install Dependencies  
@@ -88,8 +92,7 @@ git clone https://github.com/your-username/BookStore.git
 cd BookStore
 
 # Install backend dependencies
+cd backend
 npm install
 
-# Move to frontend directory & install dependencies
-cd client
-npm install
+
